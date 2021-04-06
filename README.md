@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hey There!
 
 Presently I'm working on my Youtube channel, you can find me on 
 
