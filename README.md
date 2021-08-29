@@ -38,7 +38,7 @@ Hi, I'm [Pari Tomar](https://www.linkedin.com/in/pari-tomar-8b1370187/), a passi
 
 ```text
 JavaScript   3 hrs 35 mins   ███████████████████▒░░░░░   53.82 %
-REACT          2 hrs 54 mins   █████████████████░░░░░░░░   43.73 %
+REACT          2 hrs 54 mins █████████████████░░░░░░░░   43.73 %
 JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
