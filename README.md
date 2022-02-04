@@ -21,23 +21,12 @@ I'm **Pari** aka `Pari Tomar`. I'm a **Full Stack Developer** based in Uttar Pra
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-
-<!-- <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&usqp=CAU"></code> -->
-
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-
-<!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code> -->
-
 <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg"></code>
-
-<!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code> -->
-<!-- <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code> -->
-
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
 </p>
@@ -128,7 +117,7 @@ Updating soon
 ```text
 JavaScript               7 repos             █████████████░░░░░░░░░░░░   53.85%
 HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   33.08%
-Solidity                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+Solidity                     2 repos         ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
 
 ```
 
