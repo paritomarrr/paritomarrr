@@ -1,4 +1,4 @@
-<img alt="img" src="https://c.tenor.com/xApfXYQZOy8AAAAC/kaito-study.gif" width="100%" height="auto" />
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pari-tomar-8b1370187/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/developrrr/)
